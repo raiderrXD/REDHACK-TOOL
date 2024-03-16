@@ -4,18 +4,18 @@ import socket
 import random
 os.system('clear')
 print("""\033[0;32m
-              __  __    ______            __
-             / / / /   /_  __/___  ____  / /
-            / /_/ /_____/ / / __ \/ __ \/ /
-           / __  /_____/ / / /_/ / /_/ / /
-          /_/ /_/     /_/  \____/\____/_/
+            
+             
+            
+           
+          
 """)
-print('\033[0;31m         THE TOOL BY BO HAYDAR EL MO3ALEM √')
+print('\033[0;31m         THE TOOL BY RED HACK ARSİV √')
 print("""\033[1;31m
    _____________________________________________
-   |Youtube:https://youtube.com/@BO_HAYDAR_HK  |
-   |Tele:https://t.me/txrtm                    |
-   |Tele Team:https://t.me/+EHo65POl1yA2ZjA0   |
+   |İnstagram:_y1git.inc                       |
+   |Tele:https://t.me/redhackarsiv             |
+   |Tele Team:https://t.me/redhackchet         |
    |___________________________________________|
 """)
 print('\033[0;35m   _________________________________________________')
@@ -150,9 +150,9 @@ elif oooo =='0' :
      print ('''thes tool by bo haydar All rights reserved Free Palestine
 
    _____________________________________________
-   |Youtube:https://youtube.com/@BO_HAYDAR_HK  |
-   |Tele:https://t.me/txrtm                    |
-   |Tele Team:https://t.me/+EHo65POl1yA2ZjA0   |
+   |Instagram:https://_y1git.inc               |
+   |Tele:https://t.me/redhackarsiv             |
+   |Tele Team:https://t.me/redhackchet         |
    |___________________________________________|
 ''')
 #####
