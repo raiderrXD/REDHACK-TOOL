@@ -4,10 +4,9 @@ import socket
 import random
 os.system('clear')
 print("""\033[0;32m
+          𝙍𝙀𝘿 𝙃𝘼𝘾𝙆 𝘼𝙍𝙎𝙞𝙑  
             
-             
-            
-           
+           𝐆𝐎𝐎𝐃 𝐓𝐎𝐎𝐋
           
 """)
 print('\033[0;31m         THE TOOL BY RED HACK ARSİV √')
